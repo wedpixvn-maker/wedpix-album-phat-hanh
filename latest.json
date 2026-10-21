@@ -1,10 +1,10 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "date": "2026-10-21",
-  "notes": "Bản 1.0.22: mua bản quyền ngay trong app (đăng nhập Google → quét QR → tự mở khoá), máy đọc khung từ ảnh chính xác hơn nhiều, có bản Windows.",
+  "notes": "Bản 1.0.23: bấm Cập nhật là app tự cài bản mới và tự mở lại; sửa lỗi file cập nhật tải về bị hỏng.",
   "downloads": {
-    "arm64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.22/WedpixAlbum-AppleSilicon.zip",
-    "x64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.22/WedpixAlbum-Intel.zip",
-    "win": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.22/WedpixAlbum-Windows-Setup.exe"
+    "arm64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.23/WedpixAlbum-AppleSilicon.zip",
+    "x64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.23/WedpixAlbum-Intel.zip",
+    "win": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.23/WedpixAlbum-Windows-Setup.exe"
   }
 }
