@@ -1,9 +1,10 @@
 {
-  "version": "1.0.7",
-  "date": "2026-10-04",
-  "notes": "Bản 1.0.7 — Trang lẻ: dựng ảnh cưới đem in hoặc ảnh đăng Facebook rồi xuất thẳng ra một file ảnh, album của khách không bị đụng tới. Xoá được trang và xoá được ảnh khỏi album (file gốc trên đĩa vẫn còn). Nhập lại ảnh trùng tên là thay bản mới vào đúng chỗ cũ. Sửa ảnh ở Photoshop/Evoto rồi lưu đè thì app tự lấy bản mới vào album.",
+  "version": "1.0.22",
+  "date": "2026-10-21",
+  "notes": "Bản 1.0.22: mua bản quyền ngay trong app (đăng nhập Google → quét QR → tự mở khoá), máy đọc khung từ ảnh chính xác hơn nhiều, có bản Windows.",
   "downloads": {
-    "arm64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.7/WedpixAlbum-AppleSilicon.zip",
-    "x64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.7/WedpixAlbum-Intel.zip"
+    "arm64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.22/WedpixAlbum-AppleSilicon.zip",
+    "x64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.22/WedpixAlbum-Intel.zip",
+    "win": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.22/WedpixAlbum-Windows-Setup.exe"
   }
 }
