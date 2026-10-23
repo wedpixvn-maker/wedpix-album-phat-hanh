@@ -1,10 +1,10 @@
 {
-  "version": "1.0.23",
-  "date": "2026-10-21",
-  "notes": "Bản 1.0.23: bấm Cập nhật là app tự cài bản mới và tự mở lại; sửa lỗi file cập nhật tải về bị hỏng.",
+  "version": "1.0.24",
+  "date": "2026-10-23",
+  "notes": "Căn giữa từng trang 20×20 cho khung ảnh và chữ; xoá trang nhanh, hết giật; sửa giao diện bị co nửa màn hình.",
   "downloads": {
-    "arm64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.23/WedpixAlbum-AppleSilicon.zip",
-    "x64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.23/WedpixAlbum-Intel.zip",
-    "win": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.23/WedpixAlbum-Windows-Setup.exe"
+    "arm64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.24/WedpixAlbum-AppleSilicon.zip",
+    "x64": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.24/WedpixAlbum-Intel.zip",
+    "win": "https://github.com/wedpixvn-maker/wedpix-album-phat-hanh/releases/download/v1.0.24/WedpixAlbum-Windows-Setup.exe"
   }
 }
